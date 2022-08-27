@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Trispace:wght@200&display=swap');
+body {
+    font-family: 'Fjalla One', sans-serif;
+}
+body {
+    background-image :url('../img/57-576139_grunge-black-background-background-gru-grunge-black-grunge.jpg')
+
+}
+
+
+h1 {
+    color: rgb(236, 236, 236);
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+
+p {
+    color: white;
+}
+
+
+a {
+    color: rgb(231, 216, 216);
+}
+
+ main {
+    color: white;
+ }
+
+ footer {
+    color: white;
+ }
+
+ legend {
+    color: white;
+ }
+ label {
+    color: white;
+ }
+
+
+
+.cajaFormulario{
+   
+    border: 2px white;
+}
+.primeraSeccion {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;  
+    background: radial-gradient(#968d8b,rgb(65, 60, 60) , rgb(10, 10, 10) , #000000);
+}
+
+
+li {
+    list-style: none;
+}
+h1 {
+    color: rgb(236, 236, 236);
+}
+
+
+
+img {
+  
+    width: 50%;
+}
+
+.cambiamosDisplay {
+ display: block;
+}
+footer {
+    text-align: center;
+}
+
+main {
+   
+    text-align: center;
+}
+
+
+.cajaFormulario {
+    
+    width: 320px;
+    border: 2px rgb(255, 255, 255) solid;
+
+
+}
+
+  
+  
+  label {
+    display: inline-block;
+    
+    text-align: center;
+  }
+  
+  legend {
+    text-align: center;
+  }
+  input,
+  textarea {
+   
+    font: 1em sans-serif;
+    width: 250px;
+    border: 3px solid rgb(78, 78, 78);
+  }
+  
+ .inPut {
+    font: 1em sans-serif;
+    width: 250px;
+   margin-left: 33px;
+ }
+  
+  
+ 
+  
+.parrafoDeFormulario {
+    font-size: 30px;
+}
+ 
+
